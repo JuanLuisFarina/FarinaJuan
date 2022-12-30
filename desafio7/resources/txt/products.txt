@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cant": 0,
+      "category": "Botin de Futbol",
+      "description": [
+        "Regular Fit",
+        "Calze Facil",
+        "Suela FG"
+      ],
+      "discount": 0,
+      "name": "Botin Adidas 2022",
+      "price": 7000,
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "cant": 0,
+      "category": "Pelota de Futbol",
+      "description": [
+        "Size 5",
+        "Cuero sintetico"
+      ],
+      "discount": 0,
+      "name": "Pelota de Futbol 11",
+      "price": 5500,
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "cant": 0,
+      "category": "Buzo",
+      "description": [
+        "Regular Fit",
+        "Cuello Redondo Ancho"
+      ],
+      "discount": 0,
+      "name": "Buzo de Entrenamiento",
+      "price": 7200,
+      "stock": 50
+    }
+  ]
+    
